@@ -1,0 +1,58 @@
+<svg width="680" height="510" viewBox="0 0 680 510" xmlns="http://www.w3.org/2000/svg" font-family="Arial, sans-serif">
+<style>
+.ent{fill:#dae8fc;stroke:#6c8ebf;stroke-width:1;}
+.rel{fill:#ffe6cc;stroke:#d79b00;stroke-width:1;}
+.att{fill:#f5f5f5;stroke:#666666;stroke-width:1;}
+.th{font-size:14px;font-weight:bold;fill:#1a1a1a;}
+.ts{font-size:12px;fill:#1a1a1a;}
+.ln{stroke:#666666;stroke-width:1;}
+</style>
+
+<rect class="ent" x="270" y="40" width="140" height="44" rx="4"/>
+<text class="th" x="340" y="62" text-anchor="middle" dominant-baseline="central">STUDENT</text>
+<ellipse class="att" cx="160" cy="62" rx="70" ry="22"/>
+<text class="ts" x="160" y="62" text-anchor="middle" dominant-baseline="central" text-decoration="underline">ID_STUDENT</text>
+<line class="ln" x1="230" y1="62" x2="270" y2="62"/>
+<ellipse class="att" cx="560" cy="62" rx="70" ry="22"/>
+<text class="ts" x="560" y="62" text-anchor="middle" dominant-baseline="central">NAME_STUDENT</text>
+<line class="ln" x1="410" y1="62" x2="490" y2="62"/>
+
+<line class="ln" x1="340" y1="84" x2="340" y2="130"/>
+<text class="ts" x="352" y="107" text-anchor="start">N</text>
+<polygon class="rel" points="340,120 420,160 340,200 260,160"/>
+<text class="th" x="340" y="160" text-anchor="middle" dominant-baseline="central">BELONGS_TO</text>
+<line class="ln" x1="340" y1="200" x2="340" y2="230"/>
+<text class="ts" x="352" y="218" text-anchor="start">1</text>
+
+<rect class="ent" x="270" y="230" width="140" height="44" rx="4"/>
+<text class="th" x="340" y="252" text-anchor="middle" dominant-baseline="central">CLASSROOM</text>
+<ellipse class="att" cx="160" cy="252" rx="70" ry="22"/>
+<text class="ts" x="160" y="252" text-anchor="middle" dominant-baseline="central" text-decoration="underline">CLASSROOM_ID</text>
+<line class="ln" x1="230" y1="252" x2="270" y2="252"/>
+<ellipse class="att" cx="560" cy="252" rx="70" ry="22"/>
+<text class="ts" x="560" y="252" text-anchor="middle" dominant-baseline="central">DESCRIPTION</text>
+<line class="ln" x1="410" y1="252" x2="490" y2="252"/>
+
+<line class="ln" x1="340" y1="274" x2="340" y2="300"/>
+<text class="ts" x="352" y="290" text-anchor="start">M</text>
+<polygon class="rel" points="340,300 420,340 340,380 260,340"/>
+<text class="th" x="340" y="340" text-anchor="middle" dominant-baseline="central">OFFERS</text>
+<line class="ln" x1="340" y1="380" x2="340" y2="410"/>
+<text class="ts" x="352" y="399" text-anchor="start">N</text>
+
+<rect class="ent" x="270" y="410" width="140" height="44" rx="4"/>
+<text class="th" x="340" y="432" text-anchor="middle" dominant-baseline="central">COURSE</text>
+<ellipse class="att" cx="160" cy="432" rx="70" ry="22"/>
+<text class="ts" x="160" y="432" text-anchor="middle" dominant-baseline="central" text-decoration="underline">COURSE_ID</text>
+<line class="ln" x1="230" y1="432" x2="270" y2="432"/>
+<ellipse class="att" cx="560" cy="432" rx="70" ry="22"/>
+<text class="ts" x="560" y="432" text-anchor="middle" dominant-baseline="central">COURSE_NAME</text>
+<line class="ln" x1="410" y1="432" x2="490" y2="432"/>
+
+<rect x="40" y="470" width="16" height="16" class="ent"/>
+<text class="ts" x="62" y="478" dominant-baseline="central">Entidad</text>
+<rect x="160" y="470" width="16" height="16" class="rel"/>
+<text class="ts" x="182" y="478" dominant-baseline="central">Relación</text>
+<rect x="280" y="470" width="16" height="16" class="att"/>
+<text class="ts" x="302" y="478" dominant-baseline="central">Atributo (subrayado = clave primaria)</text>
+</svg>
