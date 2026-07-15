@@ -1,5 +1,9 @@
 # Ejercicio 2: Any Company Global - Normalización de Bases de Datos
 
+## Repositorio
+
+🔗 [Ver este repositorio en GitHub](https://github.com/lcortes89/Normalizacion-bases-de-datos/tree/main/Any_company_global) | ejercicio del módulo de Normalización de Bases de Datos.
+
 ## Descripción del ejercicio
 
 Este ejercicio parte de una tabla sin normalizar con información de ventas de productos por ciudad, país y continente, portanto se debe crear la base de datos en DBeaver, normalizar con entidades y relaciones.
