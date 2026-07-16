@@ -13,8 +13,8 @@ Repositorio con los ejercicios del módulo de Normalización de Bases de Datos. 
 | Ejercicio | Descripción | Enlace |
 |---|---|---|
 | 1 | Students-Classrooms-Courses | [Ver ejercicio](./ejercicio-1-students-classrooms-courses/README.md) |
-| 2 | Any Company Global | *pendiente* |
-| 3 | SQL - Sales | *pendiente* |
+| 2 | Any Company Global | [Ver ejercicio](./Any_company_global/README.md)|
+| 3 | SQL - Sales | [Ver ejercicio](./Ejercicio-3-Sales/README.md)|
 
 ## Autora
 
