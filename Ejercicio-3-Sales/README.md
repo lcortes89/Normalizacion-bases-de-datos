@@ -1,4 +1,4 @@
-# Ejercicio: Análisis de Ventas con SQL en Docker (MySQL)
+# Ejercicio 3: Análisis de Ventas con SQL en Docker (MySQL)
 
 🔗 [Ver este repositorio en GitHub](https://github.com/lcortes89/Normalizacion-bases-de-datos/Ejercicio-3-Sales) | ejercicio SQL - Sales.
 
